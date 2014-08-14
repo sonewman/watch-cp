@@ -1,0 +1,19 @@
+{
+  "name": "watch-cp",
+  "version": "0.0.0",
+  "description": "watch and cp",
+  "main": "watch-cp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "watch-cp": "watch-cp.js"
+  },
+  "dependencies": {
+    "chalk": "^0.5.1",
+    "gulp": "^3.8.7",
+    "gulp-concat": "^2.3.4"
+  }
+}
